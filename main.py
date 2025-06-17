@@ -1,2 +1,3 @@
 print('Riccardo')
-print('I am developer - branch develop')
+a = 2
+b = a*2
