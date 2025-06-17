@@ -1,3 +1,4 @@
-print('Riccardo')
-a = 3
-b = a*2+1
+def risultato():
+    a = 2
+    b = 3
+    return a*b
