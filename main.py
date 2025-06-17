@@ -1,3 +1,3 @@
 print('Riccardo')
-a = 2
-b = a*2
+a = 3
+b = a*2+1
